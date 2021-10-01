@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 )
-// App - the struct which contains thins like, pointers to the database
+// App - the struct which contains things like, pointers to the database
 // connections
 type App struct {}
 
